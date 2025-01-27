@@ -17,7 +17,7 @@ Please note:
 ## How do I use it?
 
 1. Install the Netlify CLI (if you haven't already)
-1. Download the [latest ZIP or tarball](./tags) and decompress it
+1. Download the [latest ZIP or tarball](https://github.com/scottandrewlepera/eleventy-edge-plugin-shrinkwrapped/releases) and decompress it
 2. copy the `11ty-edge` folder to your Eleventy folder
 3. Add the plugin to your `.eleventy.js` configuration:
 
